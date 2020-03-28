@@ -1,6 +1,7 @@
 {
     "name": "kilinjal/kilinjal",
     "description": "This plugin is to load JSON data to a table",
+    "license": "MIT",
     "type": "wordpress-plugin",
     "authors": [{
       "name": "Gunabalans@yahoo.com",
