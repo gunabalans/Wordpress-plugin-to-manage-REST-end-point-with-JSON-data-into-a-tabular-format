@@ -2,7 +2,7 @@
     "name": "kilinjal/kilinjal",
     "description": "My package for JSON data table",
     "license": "MIT",
-    "type": "wordpress-theme",
+    "type": "wordpress-plugin",
     "require": {
         "composer/installers": "~1.0"
     },
