@@ -2,16 +2,11 @@
     "name": "kilinjal/kilinjal",
     "description": "This plugin is to load JSON data to a table",
     "type": "wordpress-plugin",
-    "repositories":[
-        {
-            "type":"composer",
-            "url":"https://wpackagist.org"
-        }
-    ],
-    
+    "authors": [{
+      "name": "Gunabalans@yahoo.com",
+      "homepage": "http://netkathir.com/about"
+      }],
     "autoload": {
-        "psr-4": {
-            "Kilinjal\\Lib\\": "lib"
-        }
+        "psr-4": {"Kilinjal\\Lib\\": "lib/"}
     }
 }
