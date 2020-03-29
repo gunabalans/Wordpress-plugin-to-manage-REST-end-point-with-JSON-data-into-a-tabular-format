@@ -33,9 +33,9 @@ use Kilinjal\Lib\Menu_Manager;
 
 // Exit if accessed directly
 defined('ABSPATH') || exit;
-define('WP_DEBUG', true);
 
-require_once __DIR__. '/vendor/autoload.php';
+
+require_once ABSPATH . '/vendor/autoload.php';
 
 //manage plugins activation
 $plugin_manager = new Plugin_Manager();
